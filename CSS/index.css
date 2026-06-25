@@ -190,7 +190,7 @@
 
 .contacto-box{
     position: relative;
-    width: min(650px, 90vw);
+    width: min(610px, 90vw);
     background: #111;
     border-radius: 20px;
     padding: 20px;
